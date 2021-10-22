@@ -1,0 +1,45 @@
+--USE [NtsAuto_prod]
+--GO
+
+--INSERT INTO [dbo].[wafaima_formules]
+--(
+-- [idusage]
+--,[libelle_usage]
+--,[formule]
+--,[idsegment]
+--,[libelle_segment]
+--,[montantht89_92]
+--,[TVA89_92]
+--,[frais_gest89_92]
+--,[MontantTTC89_92]
+--,[MontantHT93_184]
+--,[TVA93_184]
+--,[frais_gest93_184]
+--,[MontantTTC93_184]
+--,[MontantHT184]
+--,[TVA184]
+--,[frais_gest184]
+--,[MontantTTC184]
+-- )        
+--SELECT 
+-- [IdUsage]
+--,[Libelle_Usage]
+--,[Formule]
+--,[IdSegment]
+--,[Libelle_Segment]
+--,[MontantHT89_92]
+--,[TVA89_92]
+--,[FraisGest89_92]
+--,[MontantTTC89_92]
+--,[MontantHT93_184]
+--,[TVA93_184]
+--,[FraisGest93_184]
+--,[MontantTTC93_184]
+--,[MontantHT184]
+--,[TVA184]
+--,[FraisGest184]
+--,[MontantTTC184]
+--FROM [dbo].[wafaima_formules_old]
+--GO
+
+

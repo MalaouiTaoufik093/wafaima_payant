@@ -1,0 +1,2 @@
+insert  into wafaima_garanties (idformule,libelle,accident,panne)
+select idformule,libelle,accident,panne from wafaima_garanties_old
